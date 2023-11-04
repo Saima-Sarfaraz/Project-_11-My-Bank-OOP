@@ -1,0 +1,11 @@
+# Ignore the node_modules directory
+/node_modules
+/Project _11 My Bank OOP
+
+# Ignore any built TypeScript files (JavaScript output)
+/dist
+
+# Ignore editor/IDE-specific files and directories
+.vscode 
+.idea
+.DS_Store
